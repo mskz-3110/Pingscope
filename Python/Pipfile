@@ -8,6 +8,7 @@ plotly = "*"
 kaleido = "*"
 pytest = "*"
 numpy = "*"
+ping3 = "*"
 
 [dev-packages]
 
